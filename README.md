@@ -2,11 +2,11 @@
 
 
 
-# This is Udemig school web page, who is one of the leading Software School of the World. 
+ This is Udemig school web page, who is one of the leading Software School of the World. 
 
 
 
-# Technologies Used; 
+ Technologies Used; 
 
  • HTML5, 
  
@@ -15,6 +15,6 @@
 
 
 
-# Below, you can please see a GIF of my work.
+ Below, you can please see a GIF of my work.
 
 <img src="https://github.com/ANoyanyasadi/okull/blob/main/Gif.gif" width="auto">
